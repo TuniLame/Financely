@@ -20,16 +20,16 @@ kiwisolver
 korean-lunar-calendar
 LunarCalendar==0.0.9
 lxml==4.6.3
-matplotlib @ file:///D:/bld/matplotlib-suite_1620506206452/work
+matplotlib
 multitasking==0.0.9
-netCDF4 @ file:///D:/bld/netcdf4_1618867945328/work
-numpy @ file:///D:/bld/numpy_1621506450533/work
-olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1612459636436/work
-pandas @ file:///D:/bld/pandas_1618263791034/work
-Pillow @ file:///D:/bld/pillow_1621288193589/work
-prophet @ file:///D:/bld/prophet_1618853394287/work
-PyMeeus @ file:///home/conda/feedstock_root/build_artifacts/pymeeus_1615809745702/work
+netCDF4
+numpy
+olefile
+packaging
+pandas
+Pillow
+prophet
+PyMeeus
 pyparsing==2.4.7
 PyQt5==5.12.3
 PyQt5-sip==4.19.18
