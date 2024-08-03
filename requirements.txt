@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/torch_stable.html
 arviz
 asgiref==3.3.4
 certifi==2020.12.5
@@ -44,7 +45,6 @@ sacremoses==0.0.45
 scipy
 sqlparse==0.4.1
 tokenizers==0.10.3
---extra-index-url https://download.pytorch.org/whl/torch_stable.html
 torch==1.8.1+cpu
 torchaudio==0.8.1
 torchvision==0.9.1+cpu
