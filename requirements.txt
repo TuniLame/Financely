@@ -32,7 +32,7 @@ prophet
 PyMeeus
 pyparsing==2.4.7
 PyQt5==5.12.3
-PyQt5-sip==4.19.18
+PyQt5-sip==12.10.1
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pystan==2.19.1.1
