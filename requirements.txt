@@ -44,10 +44,10 @@ sacremoses==0.0.45
 scipy
 sqlparse==0.4.1
 tokenizers==0.10.3
+--extra-index-url https://download.pytorch.org/whl/torch_stable.html
 torch==1.8.1+cpu
 torchaudio==0.8.1
 torchvision==0.9.1+cpu
---extra-index-url https://download.pytorch.org/whl/torch_stable.html
 tornado
 tqdm
 transformers==4.6.1
