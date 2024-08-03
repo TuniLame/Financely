@@ -44,9 +44,9 @@ sacremoses==0.0.45
 scipy
 sqlparse==0.4.1
 tokenizers==0.10.3
-torch==1.8.1+cpu
-torchaudio==0.8.1
-torchvision==0.9.1+cpu
+torch
+torchaudio
+torchvision
 tornado
 tqdm
 transformers==4.6.1
