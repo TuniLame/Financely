@@ -1,4 +1,4 @@
---extra-index-url https://download.pytorch.org/whl/torch_stable.html
+--index-url https://download.pytorch.org/whl/cpu
 arviz
 asgiref==3.3.4
 certifi==2020.12.5
